@@ -1,0 +1,10 @@
+C:\Users\x\source\repos\SoCadFuncionários\WfaCadFuncionários\bin\Debug\WfaCadFuncionários.exe.config
+C:\Users\x\source\repos\SoCadFuncionários\WfaCadFuncionários\bin\Debug\WfaCadFuncionários.exe
+C:\Users\x\source\repos\SoCadFuncionários\WfaCadFuncionários\bin\Debug\WfaCadFuncionários.pdb
+C:\Users\x\source\repos\SoCadFuncionários\WfaCadFuncionários\obj\Debug\WfaCadFuncionários.csproj.AssemblyReference.cache
+C:\Users\x\source\repos\SoCadFuncionários\WfaCadFuncionários\obj\Debug\WfaCadFuncionários.FrmFuncionários.resources
+C:\Users\x\source\repos\SoCadFuncionários\WfaCadFuncionários\obj\Debug\WfaCadFuncionários.Properties.Resources.resources
+C:\Users\x\source\repos\SoCadFuncionários\WfaCadFuncionários\obj\Debug\WfaCadFuncionários.csproj.GenerateResource.cache
+C:\Users\x\source\repos\SoCadFuncionários\WfaCadFuncionários\obj\Debug\WfaCadFuncionários.csproj.CoreCompileInputs.cache
+C:\Users\x\source\repos\SoCadFuncionários\WfaCadFuncionários\obj\Debug\WfaCadFuncionários.exe
+C:\Users\x\source\repos\SoCadFuncionários\WfaCadFuncionários\obj\Debug\WfaCadFuncionários.pdb
