@@ -25,7 +25,8 @@ O sistema armazena as informações dos funcionários **diretamente na memória 
 
 ### Interface do Formulário
 
-![Prévia do Projeto Cadastro de Funcionários](https://github.com/user-attachments/assets/coloque-aqui-o-link-da-imagem)
+<img width="914" height="666" alt="image" src="https://github.com/user-attachments/assets/74ced049-05a3-4fa6-b4b8-8363e77abfe9" />
+
 
 ---
 
